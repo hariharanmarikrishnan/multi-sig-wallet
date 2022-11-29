@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/multi-sig-wallet/static/css/main.a8b406d1.chunk.css",
+    "main.js": "/multi-sig-wallet/static/js/main.825ff986.chunk.js",
+    "main.js.map": "/multi-sig-wallet/static/js/main.825ff986.chunk.js.map",
+    "runtime-main.js": "/multi-sig-wallet/static/js/runtime-main.c418af16.js",
+    "runtime-main.js.map": "/multi-sig-wallet/static/js/runtime-main.c418af16.js.map",
+    "static/js/2.f28724ec.chunk.js": "/multi-sig-wallet/static/js/2.f28724ec.chunk.js",
+    "static/js/2.f28724ec.chunk.js.map": "/multi-sig-wallet/static/js/2.f28724ec.chunk.js.map",
+    "index.html": "/multi-sig-wallet/index.html",
+    "static/css/main.a8b406d1.chunk.css.map": "/multi-sig-wallet/static/css/main.a8b406d1.chunk.css.map",
+    "static/js/2.f28724ec.chunk.js.LICENSE.txt": "/multi-sig-wallet/static/js/2.f28724ec.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/multi-sig-wallet/static/media/black_car_in_black_background_hd_black.6e22510c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c418af16.js",
+    "static/js/2.f28724ec.chunk.js",
+    "static/css/main.a8b406d1.chunk.css",
+    "static/js/main.825ff986.chunk.js"
+  ]
+}
